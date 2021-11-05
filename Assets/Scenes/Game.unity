@@ -665,7 +665,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 589d3389227fd684f8d41f78c23329fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _speed: 1
+  _speed: 10
   _leftWall: {fileID: 1178566760}
   _rightWall: {fileID: 926636981}
   _topWall: {fileID: 479709475}

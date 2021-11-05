@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerController : MovableObject
 {
-    [SerializeField] public static float Degree = 1f;
+    [SerializeField] public static float Degree = 5f;
     [SerializeField] private float _speed;
     [SerializeField] private Transform _leftWall;
     [SerializeField] private Transform _rightWall;
